@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/VibeCodeBlogger-Public/.github/main/assets/vibecodeblogger-avatar.jpeg" width="150" alt="VibeCodeBlogger" />
 
-# VibeCodeBlogger
+<h3 align="center">VibeCodeBlogger</h3>
 
 <p>
   <a href="https://www.youtube.com/@VibeCodeBlogger" target="_blank" rel="noopener"><img alt="YouTube" src="https://img.shields.io/badge/@VibeCodeBlogger-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
